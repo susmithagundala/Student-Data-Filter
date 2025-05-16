@@ -29,7 +29,7 @@ Displayed the filtered student list using a dynamic table widget.
 Live Filtering:
 Dropdowns trigger parameterized queries to fetch relevant student records instantly.
 🌍 Appsmith Application Link - https://app.appsmith.com/app/studentfilterapp/page1-6825b8e1ef3662536db0c2f2
-📷 Screenshots
+
 ![Screenshot 2025-05-16 215036](https://github.com/user-attachments/assets/0b0b0605-1a8a-4644-906b-edf8d4717bf4)
 
 
